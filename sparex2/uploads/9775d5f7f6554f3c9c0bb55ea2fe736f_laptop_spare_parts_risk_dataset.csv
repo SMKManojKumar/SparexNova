@@ -1,0 +1,11 @@
+Date,Brand,Model,Part,Units Sold,Stock,Price,Demand Level,Risk Level,Season,Region
+2025-01-01,Dell,Inspiron 15,Battery,15,30,2500,High,Medium,Winter,Chennai
+2025-01-02,HP,Pavilion 14,Screen,10,25,4500,Medium,Low,Winter,Chennai
+2025-01-03,Lenovo,IdeaPad 3,Keyboard,8,20,1500,Low,Low,Winter,Chennai
+2025-01-04,Asus,Vivobook 15,Motherboard,5,10,8000,High,High,Winter,Chennai
+2025-01-05,Acer,Aspire 7,Fan,12,18,1200,Medium,Medium,Winter,Chennai
+2025-01-06,Dell,Vostro 14,RAM,20,35,3000,High,Low,Winter,Chennai
+2025-01-07,HP,Envy x360,Screen,6,12,7000,Low,High,Winter,Chennai
+2025-01-08,Lenovo,Legion 5,GPU,4,8,15000,Medium,High,Winter,Chennai
+2025-01-09,Asus,ROG Strix,Cooling Fan,9,15,2000,Medium,Medium,Winter,Chennai
+2025-01-10,Acer,Nitro 5,Battery,14,22,2800,High,Medium,Winter,Chennai

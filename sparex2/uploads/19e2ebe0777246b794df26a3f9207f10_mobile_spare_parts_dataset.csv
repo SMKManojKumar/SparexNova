@@ -1,0 +1,11 @@
+Date,Brand,Model,Part Type,Units Sold,Stock Available,Price (INR),Demand Level,Season,Region
+2025-01-01,Samsung,Galaxy A51,Screen,25,40,2500,High,Winter,Chennai
+2025-01-01,Xiaomi,Redmi Note 9,Battery,18,35,1200,Medium,Winter,Chennai
+2025-01-02,Apple,iPhone 11,Charging Port,10,20,3500,Low,Winter,Chennai
+2025-01-03,Vivo,V20,Camera Module,12,18,2200,Medium,Winter,Chennai
+2025-01-04,Oppo,F17,Speaker,15,25,800,Medium,Winter,Chennai
+2025-01-05,Samsung,Galaxy M31,Battery,20,30,1300,High,Winter,Chennai
+2025-01-06,Xiaomi,Redmi Note 10,Screen,28,45,2000,High,Winter,Chennai
+2025-01-07,Apple,iPhone XR,Screen,8,15,5000,Low,Winter,Chennai
+2025-01-08,Vivo,Y20,Charging Port,14,22,900,Medium,Winter,Chennai
+2025-01-09,Oppo,A5s,Battery,17,28,1100,Medium,Winter,Chennai

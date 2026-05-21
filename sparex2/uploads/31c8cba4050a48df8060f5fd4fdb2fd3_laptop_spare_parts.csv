@@ -1,0 +1,505 @@
+Date,Part_Name,Category,Unit_Price_USD,Demand_Qty
+2022-01-31,Battery Pack 6-Cell,Battery & Display,89.98,84.0
+2022-02-28,Battery Pack 6-Cell,Battery & Display,75.05,81.0
+2022-03-31,Battery Pack 6-Cell,Battery & Display,14.51,83.0
+2022-04-30,Battery Pack 6-Cell,Battery & Display,105.01,86.0
+2022-05-31,Battery Pack 6-Cell,Battery & Display,10.31,103.0
+2022-06-30,Battery Pack 6-Cell,Battery & Display,116.63,99.0
+2022-07-31,Battery Pack 6-Cell,Battery & Display,28.36,91.0
+2022-08-31,Battery Pack 6-Cell,Battery & Display,28.54,102.0
+2022-09-30,Battery Pack 6-Cell,Battery & Display,56.38,102.0
+2022-10-31,Battery Pack 6-Cell,Battery & Display,40.62,87.0
+2022-11-30,Battery Pack 6-Cell,Battery & Display,40.72,97.0
+2022-12-31,Battery Pack 6-Cell,Battery & Display,49.03,110.0
+2023-01-31,Battery Pack 6-Cell,Battery & Display,30.36,122.0
+2023-02-28,Battery Pack 6-Cell,Battery & Display,65.59,111.0
+2023-03-31,Battery Pack 6-Cell,Battery & Display,76.05,111.0
+2023-04-30,Battery Pack 6-Cell,Battery & Display,27.1,118.0
+2023-05-31,Battery Pack 6-Cell,Battery & Display,84.63,115.0
+2023-06-30,Battery Pack 6-Cell,Battery & Display,57.3,120.0
+2023-07-31,Battery Pack 6-Cell,Battery & Display,11.85,125.0
+2023-08-31,Battery Pack 6-Cell,Battery & Display,109.84,119.0
+2023-09-30,Battery Pack 6-Cell,Battery & Display,42.91,137.0
+2023-10-31,Battery Pack 6-Cell,Battery & Display,66.25,123.0
+2023-11-30,Battery Pack 6-Cell,Battery & Display,116.59,124.0
+2023-12-31,Battery Pack 6-Cell,Battery & Display,94.81,139.0
+2022-01-31,Laptop Keyboard US Layout,Battery & Display,17.91,69.0
+2022-02-28,Laptop Keyboard US Layout,Battery & Display,29.95,68.0
+2022-03-31,Laptop Keyboard US Layout,Battery & Display,51.53,68.0
+2022-04-30,Laptop Keyboard US Layout,Battery & Display,38.39,69.0
+2022-05-31,Laptop Keyboard US Layout,Battery & Display,39.46,69.0
+2022-06-30,Laptop Keyboard US Layout,Battery & Display,68.78,80.0
+2022-07-31,Laptop Keyboard US Layout,Battery & Display,16.35,78.0
+2022-08-31,Laptop Keyboard US Layout,Battery & Display,118.53,75.0
+2022-09-30,Laptop Keyboard US Layout,Battery & Display,8.62,75.0
+2022-10-31,Laptop Keyboard US Layout,Battery & Display,99.33,85.0
+2022-11-30,Laptop Keyboard US Layout,Battery & Display,94.38,89.0
+2022-12-31,Laptop Keyboard US Layout,Battery & Display,16.29,90.0
+2023-01-31,Laptop Keyboard US Layout,Battery & Display,104.67,82.0
+2023-02-28,Laptop Keyboard US Layout,Battery & Display,77.81,87.0
+2023-03-31,Laptop Keyboard US Layout,Battery & Display,42.83,87.0
+2023-04-30,Laptop Keyboard US Layout,Battery & Display,44.42,91.0
+2023-05-31,Laptop Keyboard US Layout,Battery & Display,107.37,99.0
+2023-06-30,Laptop Keyboard US Layout,Battery & Display,60.89,104.0
+2023-07-31,Laptop Keyboard US Layout,Battery & Display,93.21,100.0
+2023-08-31,Laptop Keyboard US Layout,Battery & Display,70.86,95.0
+2023-09-30,Laptop Keyboard US Layout,Battery & Display,66.55,101.0
+2023-10-31,Laptop Keyboard US Layout,Battery & Display,55.88,112.0
+2023-11-30,Laptop Keyboard US Layout,Battery & Display,43.21,105.0
+2023-12-31,Laptop Keyboard US Layout,Battery & Display,64.96,105.0
+2022-01-31,15.6in FHD IPS Display,Battery & Display,53.96,53.0
+2022-02-28,15.6in FHD IPS Display,Battery & Display,92.62,59.0
+2022-03-31,15.6in FHD IPS Display,Battery & Display,112.13,53.0
+2022-04-30,15.6in FHD IPS Display,Battery & Display,98.51,57.0
+2022-05-31,15.6in FHD IPS Display,Battery & Display,98.01,69.0
+2022-06-30,15.6in FHD IPS Display,Battery & Display,28.9,67.0
+2022-07-31,15.6in FHD IPS Display,Battery & Display,98.43,68.0
+2022-08-31,15.6in FHD IPS Display,Battery & Display,108.36,76.0
+2022-09-30,15.6in FHD IPS Display,Battery & Display,33.53,66.0
+2022-10-31,15.6in FHD IPS Display,Battery & Display,55.84,71.0
+2022-11-30,15.6in FHD IPS Display,Battery & Display,8.78,77.0
+2022-12-31,15.6in FHD IPS Display,Battery & Display,65.2,79.0
+2023-01-31,15.6in FHD IPS Display,Battery & Display,21.42,69.0
+2023-02-28,15.6in FHD IPS Display,Battery & Display,45.81,78.0
+2023-03-31,15.6in FHD IPS Display,Battery & Display,66.1,82.0
+2023-04-30,15.6in FHD IPS Display,Battery & Display,86.74,88.0
+2023-05-31,15.6in FHD IPS Display,Battery & Display,115.79,89.0
+2023-06-30,15.6in FHD IPS Display,Battery & Display,36.2,88.0
+2023-07-31,15.6in FHD IPS Display,Battery & Display,39.9,78.0
+2023-08-31,15.6in FHD IPS Display,Battery & Display,12.13,93.0
+2023-09-30,15.6in FHD IPS Display,Battery & Display,13.77,95.0
+2023-10-31,15.6in FHD IPS Display,Battery & Display,39.21,114.0
+2023-11-30,15.6in FHD IPS Display,Battery & Display,24.23,98.0
+2023-12-31,15.6in FHD IPS Display,Battery & Display,62.82,103.0
+2022-01-31,DC Power Jack Connector,Connectors & Cooling,34.62,50.0
+2022-02-28,DC Power Jack Connector,Connectors & Cooling,89.56,45.0
+2022-03-31,DC Power Jack Connector,Connectors & Cooling,78.96,45.0
+2022-04-30,DC Power Jack Connector,Connectors & Cooling,68.01,30.0
+2022-05-31,DC Power Jack Connector,Connectors & Cooling,12.57,29.0
+2022-06-30,DC Power Jack Connector,Connectors & Cooling,74.18,28.0
+2022-07-31,DC Power Jack Connector,Connectors & Cooling,80.26,21.0
+2022-08-31,DC Power Jack Connector,Connectors & Cooling,27.53,24.0
+2022-09-30,DC Power Jack Connector,Connectors & Cooling,112.91,17.0
+2022-10-31,DC Power Jack Connector,Connectors & Cooling,23.4,24.0
+2022-11-30,DC Power Jack Connector,Connectors & Cooling,111.57,12.0
+2022-12-31,DC Power Jack Connector,Connectors & Cooling,106.26,11.0
+2023-01-31,DC Power Jack Connector,Connectors & Cooling,99.53,12.0
+2023-02-28,DC Power Jack Connector,Connectors & Cooling,70.18,2.0
+2023-03-31,DC Power Jack Connector,Connectors & Cooling,18.43,2.0
+2023-04-30,DC Power Jack Connector,Connectors & Cooling,108.49,2.0
+2023-05-31,DC Power Jack Connector,Connectors & Cooling,45.97,2.0
+2023-06-30,DC Power Jack Connector,Connectors & Cooling,47.11,2.0
+2023-07-31,DC Power Jack Connector,Connectors & Cooling,107.35,2.0
+2023-08-31,DC Power Jack Connector,Connectors & Cooling,95.35,2.0
+2023-09-30,DC Power Jack Connector,Connectors & Cooling,26.1,2.0
+2023-10-31,DC Power Jack Connector,Connectors & Cooling,108.64,2.0
+2023-11-30,DC Power Jack Connector,Connectors & Cooling,8.57,2.0
+2023-12-31,DC Power Jack Connector,Connectors & Cooling,26.01,2.0
+2022-01-31,Cooling Fan Assembly,Connectors & Cooling,81.02,47.0
+2022-02-28,Cooling Fan Assembly,Connectors & Cooling,33.12,38.0
+2022-03-31,Cooling Fan Assembly,Connectors & Cooling,44.44,28.0
+2022-04-30,Cooling Fan Assembly,Connectors & Cooling,91.61,34.0
+2022-05-31,Cooling Fan Assembly,Connectors & Cooling,81.65,33.0
+2022-06-30,Cooling Fan Assembly,Connectors & Cooling,71.65,28.0
+2022-07-31,Cooling Fan Assembly,Connectors & Cooling,37.7,22.0
+2022-08-31,Cooling Fan Assembly,Connectors & Cooling,35.33,17.0
+2022-09-30,Cooling Fan Assembly,Connectors & Cooling,107.91,18.0
+2022-10-31,Cooling Fan Assembly,Connectors & Cooling,78.69,17.0
+2022-11-30,Cooling Fan Assembly,Connectors & Cooling,72.61,13.0
+2022-12-31,Cooling Fan Assembly,Connectors & Cooling,63.16,18.0
+2023-01-31,Cooling Fan Assembly,Connectors & Cooling,39.45,11.0
+2023-02-28,Cooling Fan Assembly,Connectors & Cooling,10.72,2.0
+2023-03-31,Cooling Fan Assembly,Connectors & Cooling,113.33,2.0
+2023-04-30,Cooling Fan Assembly,Connectors & Cooling,114.84,3.0
+2023-05-31,Cooling Fan Assembly,Connectors & Cooling,9.73,2.0
+2023-06-30,Cooling Fan Assembly,Connectors & Cooling,111.97,2.0
+2023-07-31,Cooling Fan Assembly,Connectors & Cooling,115.93,2.0
+2023-08-31,Cooling Fan Assembly,Connectors & Cooling,103.54,2.0
+2023-09-30,Cooling Fan Assembly,Connectors & Cooling,103.33,2.0
+2023-10-31,Cooling Fan Assembly,Connectors & Cooling,43.5,2.0
+2023-11-30,Cooling Fan Assembly,Connectors & Cooling,112.85,2.0
+2023-12-31,Cooling Fan Assembly,Connectors & Cooling,85.96,2.0
+2022-01-31,Touchpad Module,Connectors & Cooling,76.88,26.0
+2022-02-28,Touchpad Module,Connectors & Cooling,118.89,29.0
+2022-03-31,Touchpad Module,Connectors & Cooling,106.27,26.0
+2022-04-30,Touchpad Module,Connectors & Cooling,90.97,19.0
+2022-05-31,Touchpad Module,Connectors & Cooling,48.26,26.0
+2022-06-30,Touchpad Module,Connectors & Cooling,40.88,24.0
+2022-07-31,Touchpad Module,Connectors & Cooling,105.11,20.0
+2022-08-31,Touchpad Module,Connectors & Cooling,110.28,18.0
+2022-09-30,Touchpad Module,Connectors & Cooling,97.41,16.0
+2022-10-31,Touchpad Module,Connectors & Cooling,80.8,27.0
+2022-11-30,Touchpad Module,Connectors & Cooling,107.68,14.0
+2022-12-31,Touchpad Module,Connectors & Cooling,45.86,11.0
+2023-01-31,Touchpad Module,Connectors & Cooling,72.77,3.0
+2023-02-28,Touchpad Module,Connectors & Cooling,12.03,3.0
+2023-03-31,Touchpad Module,Connectors & Cooling,40.09,11.0
+2023-04-30,Touchpad Module,Connectors & Cooling,74.17,2.0
+2023-05-31,Touchpad Module,Connectors & Cooling,22.23,2.0
+2023-06-30,Touchpad Module,Connectors & Cooling,66.49,2.0
+2023-07-31,Touchpad Module,Connectors & Cooling,77.76,2.0
+2023-08-31,Touchpad Module,Connectors & Cooling,17.56,2.0
+2023-09-30,Touchpad Module,Connectors & Cooling,68.55,2.0
+2023-10-31,Touchpad Module,Connectors & Cooling,79.39,2.0
+2023-11-30,Touchpad Module,Connectors & Cooling,97.06,2.0
+2023-12-31,Touchpad Module,Connectors & Cooling,38.33,2.0
+2022-01-31,Optical DVD Drive SATA,Legacy Parts,10.84,7.0
+2022-02-28,Optical DVD Drive SATA,Legacy Parts,115.82,8.0
+2022-03-31,Optical DVD Drive SATA,Legacy Parts,53.8,9.0
+2022-04-30,Optical DVD Drive SATA,Legacy Parts,27.41,9.0
+2022-05-31,Optical DVD Drive SATA,Legacy Parts,69.51,8.0
+2022-06-30,Optical DVD Drive SATA,Legacy Parts,88.03,7.0
+2022-07-31,Optical DVD Drive SATA,Legacy Parts,114.94,7.0
+2022-08-31,Optical DVD Drive SATA,Legacy Parts,90.64,9.0
+2022-09-30,Optical DVD Drive SATA,Legacy Parts,55.0,10.0
+2022-10-31,Optical DVD Drive SATA,Legacy Parts,35.75,9.0
+2022-11-30,Optical DVD Drive SATA,Legacy Parts,9.61,9.0
+2022-12-31,Optical DVD Drive SATA,Legacy Parts,21.0,7.0
+2023-01-31,Optical DVD Drive SATA,Legacy Parts,61.11,8.0
+2023-02-28,Optical DVD Drive SATA,Legacy Parts,18.96,9.0
+2023-03-31,Optical DVD Drive SATA,Legacy Parts,27.4,5.0
+2023-04-30,Optical DVD Drive SATA,Legacy Parts,56.59,7.0
+2023-05-31,Optical DVD Drive SATA,Legacy Parts,79.13,10.0
+2023-06-30,Optical DVD Drive SATA,Legacy Parts,13.07,7.0
+2023-07-31,Optical DVD Drive SATA,Legacy Parts,64.35,9.0
+2023-08-31,Optical DVD Drive SATA,Legacy Parts,103.93,7.0
+2023-09-30,Optical DVD Drive SATA,Legacy Parts,15.9,7.0
+2023-10-31,Optical DVD Drive SATA,Legacy Parts,79.95,8.0
+2023-11-30,Optical DVD Drive SATA,Legacy Parts,113.31,8.0
+2023-12-31,Optical DVD Drive SATA,Legacy Parts,72.45,8.0
+2022-01-31,VGA Port Board,Legacy Parts,59.32,6.0
+2022-02-28,VGA Port Board,Legacy Parts,69.11,4.0
+2022-03-31,VGA Port Board,Legacy Parts,115.65,5.0
+2022-04-30,VGA Port Board,Legacy Parts,109.4,5.0
+2022-05-31,VGA Port Board,Legacy Parts,15.97,5.0
+2022-06-30,VGA Port Board,Legacy Parts,43.73,5.0
+2022-07-31,VGA Port Board,Legacy Parts,21.23,5.0
+2022-08-31,VGA Port Board,Legacy Parts,86.03,5.0
+2022-09-30,VGA Port Board,Legacy Parts,90.33,5.0
+2022-10-31,VGA Port Board,Legacy Parts,97.99,5.0
+2022-11-30,VGA Port Board,Legacy Parts,92.07,5.0
+2022-12-31,VGA Port Board,Legacy Parts,98.37,5.0
+2023-01-31,VGA Port Board,Legacy Parts,49.67,5.0
+2023-02-28,VGA Port Board,Legacy Parts,94.96,5.0
+2023-03-31,VGA Port Board,Legacy Parts,104.14,5.0
+2023-04-30,VGA Port Board,Legacy Parts,56.05,5.0
+2023-05-31,VGA Port Board,Legacy Parts,19.55,5.0
+2023-06-30,VGA Port Board,Legacy Parts,109.09,5.0
+2023-07-31,VGA Port Board,Legacy Parts,43.85,6.0
+2023-08-31,VGA Port Board,Legacy Parts,108.3,5.0
+2023-09-30,VGA Port Board,Legacy Parts,114.47,5.0
+2023-10-31,VGA Port Board,Legacy Parts,72.23,5.0
+2023-11-30,VGA Port Board,Legacy Parts,40.84,5.0
+2023-12-31,VGA Port Board,Legacy Parts,44.81,6.0
+2022-01-31,Parallel Port Adapter,Legacy Parts,96.66,4.0
+2022-02-28,Parallel Port Adapter,Legacy Parts,96.44,3.0
+2022-03-31,Parallel Port Adapter,Legacy Parts,14.45,3.0
+2022-04-30,Parallel Port Adapter,Legacy Parts,69.55,3.0
+2022-05-31,Parallel Port Adapter,Legacy Parts,47.3,3.0
+2022-06-30,Parallel Port Adapter,Legacy Parts,21.11,3.0
+2022-07-31,Parallel Port Adapter,Legacy Parts,77.24,3.0
+2022-08-31,Parallel Port Adapter,Legacy Parts,19.33,3.0
+2022-09-30,Parallel Port Adapter,Legacy Parts,16.15,3.0
+2022-10-31,Parallel Port Adapter,Legacy Parts,100.05,3.0
+2022-11-30,Parallel Port Adapter,Legacy Parts,17.5,3.0
+2022-12-31,Parallel Port Adapter,Legacy Parts,118.5,3.0
+2023-01-31,Parallel Port Adapter,Legacy Parts,99.03,2.0
+2023-02-28,Parallel Port Adapter,Legacy Parts,114.09,2.0
+2023-03-31,Parallel Port Adapter,Legacy Parts,95.04,3.0
+2023-04-30,Parallel Port Adapter,Legacy Parts,70.54,3.0
+2023-05-31,Parallel Port Adapter,Legacy Parts,20.45,3.0
+2023-06-30,Parallel Port Adapter,Legacy Parts,63.17,3.0
+2023-07-31,Parallel Port Adapter,Legacy Parts,14.31,3.0
+2023-08-31,Parallel Port Adapter,Legacy Parts,21.31,3.0
+2023-09-30,Parallel Port Adapter,Legacy Parts,91.56,3.0
+2023-10-31,Parallel Port Adapter,Legacy Parts,73.34,3.0
+2023-11-30,Parallel Port Adapter,Legacy Parts,40.0,3.0
+2023-12-31,Parallel Port Adapter,Legacy Parts,105.28,3.0
+2022-01-31,DDR4 RAM 8GB Module,Storage & Memory,16.27,53.0
+2022-02-28,DDR4 RAM 8GB Module,Storage & Memory,70.03,53.0
+2022-03-31,DDR4 RAM 8GB Module,Storage & Memory,78.49,54.0
+2022-04-30,DDR4 RAM 8GB Module,Storage & Memory,85.92,57.0
+2022-05-31,DDR4 RAM 8GB Module,Storage & Memory,73.44,66.0
+2022-06-30,DDR4 RAM 8GB Module,Storage & Memory,108.93,52.0
+2022-07-31,DDR4 RAM 8GB Module,Storage & Memory,39.07,67.0
+2022-08-31,DDR4 RAM 8GB Module,Storage & Memory,29.07,53.0
+2022-09-30,DDR4 RAM 8GB Module,Storage & Memory,73.37,47.0
+2022-10-31,DDR4 RAM 8GB Module,Storage & Memory,16.71,56.0
+2022-11-30,DDR4 RAM 8GB Module,Storage & Memory,42.67,61.0
+2022-12-31,DDR4 RAM 8GB Module,Storage & Memory,99.15,69.0
+2023-01-31,DDR4 RAM 8GB Module,Storage & Memory,110.02,56.0
+2023-02-28,DDR4 RAM 8GB Module,Storage & Memory,100.12,64.0
+2023-03-31,DDR4 RAM 8GB Module,Storage & Memory,112.47,55.0
+2023-04-30,DDR4 RAM 8GB Module,Storage & Memory,105.0,72.0
+2023-05-31,DDR4 RAM 8GB Module,Storage & Memory,118.57,69.0
+2023-06-30,DDR4 RAM 8GB Module,Storage & Memory,24.85,62.0
+2023-07-31,DDR4 RAM 8GB Module,Storage & Memory,116.63,56.0
+2023-08-31,DDR4 RAM 8GB Module,Storage & Memory,102.32,72.0
+2023-09-30,DDR4 RAM 8GB Module,Storage & Memory,54.46,66.0
+2023-10-31,DDR4 RAM 8GB Module,Storage & Memory,38.62,73.0
+2023-11-30,DDR4 RAM 8GB Module,Storage & Memory,94.13,68.0
+2023-12-31,DDR4 RAM 8GB Module,Storage & Memory,113.81,69.0
+2022-01-31,256GB SSD M.2 NVMe,Storage & Memory,58.46,57.0
+2022-02-28,256GB SSD M.2 NVMe,Storage & Memory,22.47,65.0
+2022-03-31,256GB SSD M.2 NVMe,Storage & Memory,33.61,63.0
+2022-04-30,256GB SSD M.2 NVMe,Storage & Memory,83.23,66.0
+2022-05-31,256GB SSD M.2 NVMe,Storage & Memory,20.72,54.0
+2022-06-30,256GB SSD M.2 NVMe,Storage & Memory,83.22,72.0
+2022-07-31,256GB SSD M.2 NVMe,Storage & Memory,66.26,75.0
+2022-08-31,256GB SSD M.2 NVMe,Storage & Memory,103.44,67.0
+2022-09-30,256GB SSD M.2 NVMe,Storage & Memory,106.19,80.0
+2022-10-31,256GB SSD M.2 NVMe,Storage & Memory,53.19,79.0
+2022-11-30,256GB SSD M.2 NVMe,Storage & Memory,86.86,73.0
+2022-12-31,256GB SSD M.2 NVMe,Storage & Memory,31.85,78.0
+2023-01-31,256GB SSD M.2 NVMe,Storage & Memory,51.93,77.0
+2023-02-28,256GB SSD M.2 NVMe,Storage & Memory,57.0,61.0
+2023-03-31,256GB SSD M.2 NVMe,Storage & Memory,65.57,71.0
+2023-04-30,256GB SSD M.2 NVMe,Storage & Memory,95.77,78.0
+2023-05-31,256GB SSD M.2 NVMe,Storage & Memory,104.58,84.0
+2023-06-30,256GB SSD M.2 NVMe,Storage & Memory,114.35,67.0
+2023-07-31,256GB SSD M.2 NVMe,Storage & Memory,59.42,66.0
+2023-08-31,256GB SSD M.2 NVMe,Storage & Memory,117.76,77.0
+2023-09-30,256GB SSD M.2 NVMe,Storage & Memory,78.94,66.0
+2023-10-31,256GB SSD M.2 NVMe,Storage & Memory,34.9,78.0
+2023-11-30,256GB SSD M.2 NVMe,Storage & Memory,28.37,82.0
+2023-12-31,256GB SSD M.2 NVMe,Storage & Memory,46.71,75.0
+2022-01-31,USB-C Charging Board,Storage & Memory,82.77,40.0
+2022-02-28,USB-C Charging Board,Storage & Memory,27.3,44.0
+2022-03-31,USB-C Charging Board,Storage & Memory,27.83,39.0
+2022-04-30,USB-C Charging Board,Storage & Memory,17.93,39.0
+2022-05-31,USB-C Charging Board,Storage & Memory,31.11,42.0
+2022-06-30,USB-C Charging Board,Storage & Memory,48.8,39.0
+2022-07-31,USB-C Charging Board,Storage & Memory,12.4,51.0
+2022-08-31,USB-C Charging Board,Storage & Memory,97.53,44.0
+2022-09-30,USB-C Charging Board,Storage & Memory,105.84,42.0
+2022-10-31,USB-C Charging Board,Storage & Memory,111.14,46.0
+2022-11-30,USB-C Charging Board,Storage & Memory,98.29,46.0
+2022-12-31,USB-C Charging Board,Storage & Memory,91.81,46.0
+2023-01-31,USB-C Charging Board,Storage & Memory,49.49,45.0
+2023-02-28,USB-C Charging Board,Storage & Memory,62.27,45.0
+2023-03-31,USB-C Charging Board,Storage & Memory,59.8,42.0
+2023-04-30,USB-C Charging Board,Storage & Memory,91.72,54.0
+2023-05-31,USB-C Charging Board,Storage & Memory,65.31,52.0
+2023-06-30,USB-C Charging Board,Storage & Memory,67.6,51.0
+2023-07-31,USB-C Charging Board,Storage & Memory,67.65,50.0
+2023-08-31,USB-C Charging Board,Storage & Memory,35.16,48.0
+2023-09-30,USB-C Charging Board,Storage & Memory,10.25,49.0
+2023-10-31,USB-C Charging Board,Storage & Memory,44.07,47.0
+2023-11-30,USB-C Charging Board,Storage & Memory,21.41,51.0
+2023-12-31,USB-C Charging Board,Storage & Memory,107.74,49.0
+2022-01-31,Laptop Hinge Left,Structural Parts,96.39,30.0
+2022-02-28,Laptop Hinge Left,Structural Parts,63.83,28.0
+2022-03-31,Laptop Hinge Left,Structural Parts,73.73,25.0
+2022-04-30,Laptop Hinge Left,Structural Parts,91.49,22.0
+2022-05-31,Laptop Hinge Left,Structural Parts,39.78,22.0
+2022-06-30,Laptop Hinge Left,Structural Parts,48.67,24.0
+2022-07-31,Laptop Hinge Left,Structural Parts,47.88,28.0
+2022-08-31,Laptop Hinge Left,Structural Parts,118.49,31.0
+2022-09-30,Laptop Hinge Left,Structural Parts,19.4,21.0
+2022-10-31,Laptop Hinge Left,Structural Parts,25.12,27.0
+2022-11-30,Laptop Hinge Left,Structural Parts,28.9,23.0
+2022-12-31,Laptop Hinge Left,Structural Parts,39.93,24.0
+2023-01-31,Laptop Hinge Left,Structural Parts,53.96,25.0
+2023-02-28,Laptop Hinge Left,Structural Parts,118.03,23.0
+2023-03-31,Laptop Hinge Left,Structural Parts,116.58,24.0
+2023-04-30,Laptop Hinge Left,Structural Parts,104.94,22.0
+2023-05-31,Laptop Hinge Left,Structural Parts,27.14,23.0
+2023-06-30,Laptop Hinge Left,Structural Parts,82.89,27.0
+2023-07-31,Laptop Hinge Left,Structural Parts,72.02,25.0
+2023-08-31,Laptop Hinge Left,Structural Parts,39.36,27.0
+2023-09-30,Laptop Hinge Left,Structural Parts,44.25,23.0
+2023-10-31,Laptop Hinge Left,Structural Parts,55.65,27.0
+2023-11-30,Laptop Hinge Left,Structural Parts,20.86,20.0
+2023-12-31,Laptop Hinge Left,Structural Parts,76.39,25.0
+2022-01-31,Laptop Hinge Right,Structural Parts,25.29,26.0
+2022-02-28,Laptop Hinge Right,Structural Parts,61.89,19.0
+2022-03-31,Laptop Hinge Right,Structural Parts,45.7,22.0
+2022-04-30,Laptop Hinge Right,Structural Parts,23.05,24.0
+2022-05-31,Laptop Hinge Right,Structural Parts,36.52,27.0
+2022-06-30,Laptop Hinge Right,Structural Parts,84.33,22.0
+2022-07-31,Laptop Hinge Right,Structural Parts,60.82,26.0
+2022-08-31,Laptop Hinge Right,Structural Parts,54.13,28.0
+2022-09-30,Laptop Hinge Right,Structural Parts,101.03,26.0
+2022-10-31,Laptop Hinge Right,Structural Parts,116.08,23.0
+2022-11-30,Laptop Hinge Right,Structural Parts,113.09,25.0
+2022-12-31,Laptop Hinge Right,Structural Parts,28.3,22.0
+2023-01-31,Laptop Hinge Right,Structural Parts,72.34,24.0
+2023-02-28,Laptop Hinge Right,Structural Parts,102.28,24.0
+2023-03-31,Laptop Hinge Right,Structural Parts,30.58,25.0
+2023-04-30,Laptop Hinge Right,Structural Parts,26.33,23.0
+2023-05-31,Laptop Hinge Right,Structural Parts,82.5,25.0
+2023-06-30,Laptop Hinge Right,Structural Parts,66.58,23.0
+2023-07-31,Laptop Hinge Right,Structural Parts,51.95,27.0
+2023-08-31,Laptop Hinge Right,Structural Parts,99.46,23.0
+2023-09-30,Laptop Hinge Right,Structural Parts,59.82,18.0
+2023-10-31,Laptop Hinge Right,Structural Parts,41.75,21.0
+2023-11-30,Laptop Hinge Right,Structural Parts,34.01,24.0
+2023-12-31,Laptop Hinge Right,Structural Parts,108.75,29.0
+2022-01-31,CMOS Battery CR2032,Structural Parts,109.52,20.0
+2022-02-28,CMOS Battery CR2032,Structural Parts,77.91,14.0
+2022-03-31,CMOS Battery CR2032,Structural Parts,23.6,15.0
+2022-04-30,CMOS Battery CR2032,Structural Parts,96.93,20.0
+2022-05-31,CMOS Battery CR2032,Structural Parts,108.12,19.0
+2022-06-30,CMOS Battery CR2032,Structural Parts,96.32,23.0
+2022-07-31,CMOS Battery CR2032,Structural Parts,35.83,17.0
+2022-08-31,CMOS Battery CR2032,Structural Parts,91.32,16.0
+2022-09-30,CMOS Battery CR2032,Structural Parts,93.4,18.0
+2022-10-31,CMOS Battery CR2032,Structural Parts,106.2,17.0
+2022-11-30,CMOS Battery CR2032,Structural Parts,20.39,20.0
+2022-12-31,CMOS Battery CR2032,Structural Parts,102.8,17.0
+2023-01-31,CMOS Battery CR2032,Structural Parts,97.3,17.0
+2023-02-28,CMOS Battery CR2032,Structural Parts,24.79,16.0
+2023-03-31,CMOS Battery CR2032,Structural Parts,88.64,20.0
+2023-04-30,CMOS Battery CR2032,Structural Parts,79.81,16.0
+2023-05-31,CMOS Battery CR2032,Structural Parts,36.2,19.0
+2023-06-30,CMOS Battery CR2032,Structural Parts,46.72,22.0
+2023-07-31,CMOS Battery CR2032,Structural Parts,59.74,14.0
+2023-08-31,CMOS Battery CR2032,Structural Parts,114.1,21.0
+2023-09-30,CMOS Battery CR2032,Structural Parts,64.66,19.0
+2023-10-31,CMOS Battery CR2032,Structural Parts,76.48,16.0
+2023-11-30,CMOS Battery CR2032,Structural Parts,86.02,18.0
+2023-12-31,CMOS Battery CR2032,Structural Parts,111.32,19.0
+2022-01-31,Wi-Fi Antenna Cable,Structural Parts,72.54,20.0
+2022-02-28,Wi-Fi Antenna Cable,Structural Parts,75.95,23.0
+2022-03-31,Wi-Fi Antenna Cable,Structural Parts,112.65,25.0
+2022-04-30,Wi-Fi Antenna Cable,Structural Parts,111.66,21.0
+2022-05-31,Wi-Fi Antenna Cable,Structural Parts,118.3,20.0
+2022-06-30,Wi-Fi Antenna Cable,Structural Parts,101.96,22.0
+2022-07-31,Wi-Fi Antenna Cable,Structural Parts,74.22,22.0
+2022-08-31,Wi-Fi Antenna Cable,Structural Parts,52.69,24.0
+2022-09-30,Wi-Fi Antenna Cable,Structural Parts,97.92,22.0
+2022-10-31,Wi-Fi Antenna Cable,Structural Parts,8.52,21.0
+2022-11-30,Wi-Fi Antenna Cable,Structural Parts,68.19,20.0
+2022-12-31,Wi-Fi Antenna Cable,Structural Parts,111.02,19.0
+2023-01-31,Wi-Fi Antenna Cable,Structural Parts,90.6,19.0
+2023-02-28,Wi-Fi Antenna Cable,Structural Parts,58.65,19.0
+2023-03-31,Wi-Fi Antenna Cable,Structural Parts,23.78,21.0
+2023-04-30,Wi-Fi Antenna Cable,Structural Parts,27.76,19.0
+2023-05-31,Wi-Fi Antenna Cable,Structural Parts,110.46,17.0
+2023-06-30,Wi-Fi Antenna Cable,Structural Parts,48.59,22.0
+2023-07-31,Wi-Fi Antenna Cable,Structural Parts,9.47,26.0
+2023-08-31,Wi-Fi Antenna Cable,Structural Parts,82.32,24.0
+2023-09-30,Wi-Fi Antenna Cable,Structural Parts,17.56,21.0
+2023-10-31,Wi-Fi Antenna Cable,Structural Parts,119.65,20.0
+2023-11-30,Wi-Fi Antenna Cable,Structural Parts,15.51,27.0
+2023-12-31,Wi-Fi Antenna Cable,Structural Parts,92.0,22.0
+2022-01-31,Speaker Left 2W,Structural Parts,30.98,20.0
+2022-02-28,Speaker Left 2W,Structural Parts,29.36,20.0
+2022-03-31,Speaker Left 2W,Structural Parts,71.26,20.0
+2022-04-30,Speaker Left 2W,Structural Parts,15.36,19.0
+2022-05-31,Speaker Left 2W,Structural Parts,66.73,19.0
+2022-06-30,Speaker Left 2W,Structural Parts,57.37,23.0
+2022-07-31,Speaker Left 2W,Structural Parts,25.39,22.0
+2022-08-31,Speaker Left 2W,Structural Parts,28.38,16.0
+2022-09-30,Speaker Left 2W,Structural Parts,80.13,17.0
+2022-10-31,Speaker Left 2W,Structural Parts,53.78,18.0
+2022-11-30,Speaker Left 2W,Structural Parts,11.03,22.0
+2022-12-31,Speaker Left 2W,Structural Parts,32.86,23.0
+2023-01-31,Speaker Left 2W,Structural Parts,10.21,21.0
+2023-02-28,Speaker Left 2W,Structural Parts,19.66,18.0
+2023-03-31,Speaker Left 2W,Structural Parts,81.11,19.0
+2023-04-30,Speaker Left 2W,Structural Parts,34.68,21.0
+2023-05-31,Speaker Left 2W,Structural Parts,88.89,20.0
+2023-06-30,Speaker Left 2W,Structural Parts,103.84,19.0
+2023-07-31,Speaker Left 2W,Structural Parts,82.83,19.0
+2023-08-31,Speaker Left 2W,Structural Parts,30.96,22.0
+2023-09-30,Speaker Left 2W,Structural Parts,9.46,21.0
+2023-10-31,Speaker Left 2W,Structural Parts,17.58,19.0
+2023-11-30,Speaker Left 2W,Structural Parts,55.2,21.0
+2023-12-31,Speaker Left 2W,Structural Parts,107.98,17.0
+2022-01-31,Thermal Paste 1g Syringe,Chassis & Covers,37.06,31.0
+2022-02-28,Thermal Paste 1g Syringe,Chassis & Covers,50.53,49.0
+2022-03-31,Thermal Paste 1g Syringe,Chassis & Covers,77.9,32.0
+2022-04-30,Thermal Paste 1g Syringe,Chassis & Covers,53.85,51.0
+2022-05-31,Thermal Paste 1g Syringe,Chassis & Covers,40.98,29.0
+2022-06-30,Thermal Paste 1g Syringe,Chassis & Covers,114.23,56.0
+2022-07-31,Thermal Paste 1g Syringe,Chassis & Covers,105.27,34.0
+2022-08-31,Thermal Paste 1g Syringe,Chassis & Covers,62.59,37.0
+2022-09-30,Thermal Paste 1g Syringe,Chassis & Covers,55.62,31.0
+2022-10-31,Thermal Paste 1g Syringe,Chassis & Covers,10.52,31.0
+2022-11-30,Thermal Paste 1g Syringe,Chassis & Covers,78.95,34.0
+2022-12-31,Thermal Paste 1g Syringe,Chassis & Covers,36.88,22.0
+2023-01-31,Thermal Paste 1g Syringe,Chassis & Covers,118.25,42.0
+2023-02-28,Thermal Paste 1g Syringe,Chassis & Covers,66.88,45.0
+2023-03-31,Thermal Paste 1g Syringe,Chassis & Covers,10.06,46.0
+2023-04-30,Thermal Paste 1g Syringe,Chassis & Covers,110.4,46.0
+2023-05-31,Thermal Paste 1g Syringe,Chassis & Covers,38.69,53.0
+2023-06-30,Thermal Paste 1g Syringe,Chassis & Covers,70.07,41.0
+2023-07-31,Thermal Paste 1g Syringe,Chassis & Covers,31.12,52.0
+2023-08-31,Thermal Paste 1g Syringe,Chassis & Covers,9.23,43.0
+2023-09-30,Thermal Paste 1g Syringe,Chassis & Covers,75.26,38.0
+2023-10-31,Thermal Paste 1g Syringe,Chassis & Covers,82.48,43.0
+2023-11-30,Thermal Paste 1g Syringe,Chassis & Covers,66.12,23.0
+2023-12-31,Thermal Paste 1g Syringe,Chassis & Covers,13.26,31.0
+2022-01-31,Screen Bezel Plastic Cover,Chassis & Covers,17.27,31.0
+2022-02-28,Screen Bezel Plastic Cover,Chassis & Covers,75.55,28.0
+2022-03-31,Screen Bezel Plastic Cover,Chassis & Covers,40.33,31.0
+2022-04-30,Screen Bezel Plastic Cover,Chassis & Covers,47.84,27.0
+2022-05-31,Screen Bezel Plastic Cover,Chassis & Covers,71.44,28.0
+2022-06-30,Screen Bezel Plastic Cover,Chassis & Covers,61.32,35.0
+2022-07-31,Screen Bezel Plastic Cover,Chassis & Covers,90.05,26.0
+2022-08-31,Screen Bezel Plastic Cover,Chassis & Covers,32.07,19.0
+2022-09-30,Screen Bezel Plastic Cover,Chassis & Covers,63.59,9.0
+2022-10-31,Screen Bezel Plastic Cover,Chassis & Covers,74.85,12.0
+2022-11-30,Screen Bezel Plastic Cover,Chassis & Covers,19.94,18.0
+2022-12-31,Screen Bezel Plastic Cover,Chassis & Covers,16.42,10.0
+2023-01-31,Screen Bezel Plastic Cover,Chassis & Covers,85.1,18.0
+2023-02-28,Screen Bezel Plastic Cover,Chassis & Covers,56.7,33.0
+2023-03-31,Screen Bezel Plastic Cover,Chassis & Covers,97.53,30.0
+2023-04-30,Screen Bezel Plastic Cover,Chassis & Covers,85.81,23.0
+2023-05-31,Screen Bezel Plastic Cover,Chassis & Covers,48.43,28.0
+2023-06-30,Screen Bezel Plastic Cover,Chassis & Covers,18.26,10.0
+2023-07-31,Screen Bezel Plastic Cover,Chassis & Covers,28.73,13.0
+2023-08-31,Screen Bezel Plastic Cover,Chassis & Covers,68.69,12.0
+2023-09-30,Screen Bezel Plastic Cover,Chassis & Covers,98.33,6.0
+2023-10-31,Screen Bezel Plastic Cover,Chassis & Covers,81.78,5.0
+2023-11-30,Screen Bezel Plastic Cover,Chassis & Covers,35.96,7.0
+2023-12-31,Screen Bezel Plastic Cover,Chassis & Covers,62.82,7.0
+2022-01-31,Bottom Base Cover,Chassis & Covers,28.22,35.0
+2022-02-28,Bottom Base Cover,Chassis & Covers,71.61,39.0
+2022-03-31,Bottom Base Cover,Chassis & Covers,111.53,34.0
+2022-04-30,Bottom Base Cover,Chassis & Covers,116.76,50.0
+2022-05-31,Bottom Base Cover,Chassis & Covers,104.55,42.0
+2022-06-30,Bottom Base Cover,Chassis & Covers,102.59,43.0
+2022-07-31,Bottom Base Cover,Chassis & Covers,12.14,40.0
+2022-08-31,Bottom Base Cover,Chassis & Covers,74.78,25.0
+2022-09-30,Bottom Base Cover,Chassis & Covers,16.62,23.0
+2022-10-31,Bottom Base Cover,Chassis & Covers,85.98,23.0
+2022-11-30,Bottom Base Cover,Chassis & Covers,15.32,35.0
+2022-12-31,Bottom Base Cover,Chassis & Covers,43.31,24.0
+2023-01-31,Bottom Base Cover,Chassis & Covers,43.7,46.0
+2023-02-28,Bottom Base Cover,Chassis & Covers,78.1,42.0
+2023-03-31,Bottom Base Cover,Chassis & Covers,34.09,47.0
+2023-04-30,Bottom Base Cover,Chassis & Covers,10.73,53.0
+2023-05-31,Bottom Base Cover,Chassis & Covers,113.18,46.0
+2023-06-30,Bottom Base Cover,Chassis & Covers,97.46,50.0
+2023-07-31,Bottom Base Cover,Chassis & Covers,61.75,34.0
+2023-08-31,Bottom Base Cover,Chassis & Covers,78.28,43.0
+2023-09-30,Bottom Base Cover,Chassis & Covers,55.19,26.0
+2023-10-31,Bottom Base Cover,Chassis & Covers,90.61,38.0
+2023-11-30,Bottom Base Cover,Chassis & Covers,47.72,27.0
+2023-12-31,Bottom Base Cover,Chassis & Covers,40.17,32.0
+2022-01-31,Palmrest Assembly,Chassis & Covers,12.71,21.0
+2022-02-28,Palmrest Assembly,Chassis & Covers,10.0,27.0
+2022-03-31,Palmrest Assembly,Chassis & Covers,51.04,34.0
+2022-04-30,Palmrest Assembly,Chassis & Covers,84.12,36.0
+2022-05-31,Palmrest Assembly,Chassis & Covers,113.81,38.0
+2022-06-30,Palmrest Assembly,Chassis & Covers,60.35,28.0
+2022-07-31,Palmrest Assembly,Chassis & Covers,119.01,18.0
+2022-08-31,Palmrest Assembly,Chassis & Covers,33.95,20.0
+2022-09-30,Palmrest Assembly,Chassis & Covers,76.07,15.0
+2022-10-31,Palmrest Assembly,Chassis & Covers,65.42,15.0
+2022-11-30,Palmrest Assembly,Chassis & Covers,32.69,10.0
+2022-12-31,Palmrest Assembly,Chassis & Covers,28.88,14.0
+2023-01-31,Palmrest Assembly,Chassis & Covers,14.48,18.0
+2023-02-28,Palmrest Assembly,Chassis & Covers,116.54,32.0
+2023-03-31,Palmrest Assembly,Chassis & Covers,85.95,36.0
+2023-04-30,Palmrest Assembly,Chassis & Covers,25.24,27.0
+2023-05-31,Palmrest Assembly,Chassis & Covers,33.07,25.0
+2023-06-30,Palmrest Assembly,Chassis & Covers,68.14,27.0
+2023-07-31,Palmrest Assembly,Chassis & Covers,18.25,27.0
+2023-08-31,Palmrest Assembly,Chassis & Covers,106.28,22.0
+2023-09-30,Palmrest Assembly,Chassis & Covers,107.54,6.0
+2023-10-31,Palmrest Assembly,Chassis & Covers,115.03,6.0
+2023-11-30,Palmrest Assembly,Chassis & Covers,81.39,10.0
+2023-12-31,Palmrest Assembly,Chassis & Covers,69.7,13.0
